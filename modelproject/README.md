@@ -1,6 +1,6 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled Modelproject and is based around the overlapping generations model (OLG model). The analysis is extended to include a tax directly levied on labour income and a tax on savings. 
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
