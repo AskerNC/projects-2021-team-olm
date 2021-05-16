@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled Dataproject and explores the danish export to certain main trading partners in the period 2005-2019. The analysis is then taking further to include exports of specific goods and services in the same period.   
+Our project is titled Dataproject and explores the danish export to certain main trading partners in the period 2005-2019. The analysis is then taken further to include exports of specific goods and services in the same period.   
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
